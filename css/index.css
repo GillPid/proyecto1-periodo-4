@@ -17,11 +17,13 @@ header {
     display: flex;
     justify-content: flex-end;
 }
-.nav__ul_item {
-    display: inline-flex;
+.nav-ul {
     width: 250px;
     height: auto;
     list-style: none;
+}
+.nav__ul_item {
+    display: inline-flex;
     justify-content: flex-end;
 }
 .menu-icon {
